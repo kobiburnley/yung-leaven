@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["global-externals:react-dom", "../../../../src/bundles/browser/react-dom.ts"],
+  "mappings": ";AAAA,IAAOA,EAAQ,SCCb,OAA+B,SAAWC",
+  "names": ["react_dom_default", "react_dom_default"]
+}
